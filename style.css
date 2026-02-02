@@ -63,6 +63,7 @@ body {
   color: #0a3d62;
   font-weight: bold;
 }
+
 form {
   display: flex;
   flex-direction: column;
