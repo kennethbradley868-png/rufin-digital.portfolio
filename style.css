@@ -59,6 +59,10 @@ body {
   padding: 20px;
   border-radius: 5px;
 }
+.fou a {
+  color: #0a3d62;
+  font-weight: bold;
+}
 form {
   display: flex;
   flex-direction: column;
